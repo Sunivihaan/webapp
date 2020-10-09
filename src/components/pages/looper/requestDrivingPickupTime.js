@@ -2,17 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Header from '../menu_dashboard/looper_header';
 
-import Profile from '../../../assets/img/hero-header/profile.svg'
-import Chat from '../../../assets/img/hero-header/chat.svg'
-import RateLooper from '../../../assets/img/hero-header/rateLooper.svg'
-import HallofFame from '../../../assets/img/hero-header/hallOfFame.svg'
-import HeroLog from '../../../assets/img/hero-header/heroLog.svg'
-import Task from '../../../assets/img/hero-header/task.svg'
-import Map from '../../../assets/img/hero-header/map.svg'
-//import Food from "../../../assets/img/food2.png";
-//import Transport from "../../../assets/img/tasks/travel.svg";
-//import Pharmacy from "../../../assets/img/tasks/pharmacy.svg";
-//import Other from "../../../assets/img/tasks/other.svg";
+import * as MENUS from "../../../../constants/menus"
+import Header from "../../menu_dashboard/looper_header"
 
 
 import Button from "react-bootstrap/Button";
