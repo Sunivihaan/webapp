@@ -1,0 +1,2070 @@
+/* Looper HelpType Menu */
+
+.looperhelp .wrapper{
+ background-image: url('../img/doodle.png');
+}
+
+#req_helptype{
+
+height: 641px;
+left: 302px;
+top: 224px;
+
+background: #FFF9F4;
+box-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+}
+
+.helptype_text h1{
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+letter-spacing: 0.01em;
+color: #68ADEC;
+
+}
+
+.helptype_text p{
+position:absolute;
+width: 563px;
+height: 47px;
+left: 235px;
+top: 181px;
+text-align:center;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+letter-spacing: 0.01em;
+color: #000000;
+}
+
+/* food */
+
+.helptype .req_food img{
+position: absolute;
+width: 96.15px;
+height: 104.48px;
+left: 30.99%;
+right: 60.35%;
+top: 45.42%;
+bottom: 48.28%;
+
+
+}
+
+.helptype .req_food p{
+
+position: absolute;
+width: 112px;
+height: 30px;
+left: 303px;
+top: 390px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+letter-spacing: 0.01em;
+color: #000000;
+}
+
+/* Transport */
+
+.helptype .req_trans img{
+position: absolute;
+width: 96.15px;
+height: 104.48px;
+
+left: 62.71%;
+right: 31.42%;
+top: 45.42%;
+bottom: 48.28%;
+}
+
+.helptype .req_trans p{
+
+position: absolute;
+width: 112px;
+height: 30px;
+left: 622px;
+top: 390px;
+
+
+/* Main Heading - 18pt Bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+
+/* Pharmacy */
+
+.helptype .req_med img{
+position: absolute;
+width: 86.31px;
+height: 104.48px;
+left: 30.99%;
+right:60.35%;
+top: 80.78%;
+bottom:12.92%;
+}
+
+.helptype .req_med p{
+
+position: absolute;
+width: 120px;
+height: 29px;
+left: 291px;
+top: 600px;
+
+/* Main Heading - 18pt Bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+letter-spacing: 0.01em;
+}
+
+/* Other */
+
+.helptype .req_other img{
+position: absolute;
+width: 86.31px;
+height: 104.48px;
+left: 62.79%;
+right: 31.23%;
+top: 80.67%;
+bottom: 12.79%;
+}
+
+.helptype .req_other p{
+	
+position: absolute;
+width: 65px;
+height:29px;
+left: 645px;
+top: 600px;
+
+/* Main Heading - 18pt Bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+
+
+
+/* Types of Rquest */
+
+/* Looper Food Request  */
+
+/* Food Request   */
+#request_food{
+	position:relative;
+	height:641px;
+	background:#FFF9F4;
+	box-shadow:4px 10px 10px rgba(0,0,0,0.25);
+	border-radius:15px;
+
+}
+
+#request_food #i1 {
+position: absolute;
+left: 14.57%;
+right: 75.86%;
+top: 9.83%;
+bottom: 77.22%;
+width: 70px;
+height: 95px;
+
+}
+#request_food #i2 {
+position: absolute;
+left: 63.97%;
+right: 31.44%;
+top: 14.01%;
+bottom: 79.1%;
+width: 60px;
+height: 75px;
+
+}
+#request_food #i3 {
+position: absolute;
+left: 83.88%;
+right: 15.52%;
+top: 13.86%;
+bottom: 79.24%;
+width: 60px;
+height: 75px;
+}
+#request_food #i4 {
+position: absolute;
+left: 74.02%;
+right: 23.39%;
+top: 13.86%;
+bottom: 79.24%;
+width: 60px;
+height: 75px;
+}
+
+/* Need to change? Click here: */
+
+.Needtochange p{
+
+position: absolute;
+width: 195px;
+height: 14px;
+left: 485px;
+top: 50px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: 0.01em;
+
+color: #8C8C8C;
+
+}
+
+
+
+
+/* Our Heroes are here to help with food shopping.   */
+.Food_reqtext p{
+position: absolute;
+width: 411px;
+height: 34px;
+left: 131px;
+top: 186px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+}
+
+/* Pharmacy Request Type */
+
+
+#request_med{
+	position:relative;
+	height:641px;
+	background:#FFF9F4;
+	box-shadow:4px 10px 10px rgba(0,0,0,0.25);
+	border-radius:15px;
+
+}
+
+
+#request_med #i1 {
+position: absolute;
+left: 14.57%;
+right: 75.86%;
+top: 9.83%;
+bottom: 77.22%;
+width: 70px;
+height: 95px;
+
+}
+#request_med #i2 {
+position: absolute;
+left: 63.97%;
+right: 31.44%;
+top: 14.01%;
+bottom: 79.1%;
+width: 60px;
+height: 75px;
+
+}
+#request_med #i3 {
+position: absolute;
+left: 83.88%;
+right: 15.52%;
+top: 13.86%;
+bottom: 79.24%;
+width: 60px;
+height: 75px;
+}
+#request_med #i4 {
+position: absolute;
+left: 74.02%;
+right: 23.39%;
+top: 13.86%;
+bottom: 79.24%;
+width: 60px;
+height: 75px;
+}
+
+
+/* Our Heroes are here to help with Pharmacy shopping.   */
+.Med_reqtext p{
+position: absolute;
+width: 411px;
+height: 34px;
+left: 131px;
+top: 186px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+}
+/* Transport Request Type  */
+
+
+#request_trans{
+	position:relative;
+	height:641px;
+	background:#FFF9F4;
+	box-shadow:4px 10px 10px rgba(0,0,0,0.25);
+	border-radius:15px;
+
+}
+
+
+#request_trans #i1 {
+position: absolute;
+left: 14.57%;
+right: 75.86%;
+top: 9.83%;
+bottom: 77.22%;
+width: 70px;
+height: 95px;
+
+}
+#request_trans #i2 {
+position: absolute;
+left: 63.97%;
+right: 31.44%;
+top: 14.01%;
+bottom: 79.1%;
+width: 60px;
+height: 75px;
+
+}
+#request_trans #i3 {
+position: absolute;
+left: 83.88%;
+right: 15.52%;
+top: 13.86%;
+bottom: 79.24%;
+width: 60px;
+height: 75px;
+}
+#request_trans #i4 {
+position: absolute;
+left: 74.02%;
+right: 23.39%;
+top: 13.86%;
+bottom: 79.24%;
+width: 60px;
+height: 75px;
+}
+
+
+/* Our Heroes are here to help with Transport shopping.   */
+.Trans_reqtext p{
+position: absolute;
+width: 600px;
+height: 34px;
+left: 131px;
+top: 186px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+}
+
+/*Looper Others Request */
+
+
+#request_others{
+	position:relative;
+	height:641px;
+	background:#FFF9F4;
+	box-shadow:4px 10px 10px rgba(0,0,0,0.25);
+	border-radius:15px;
+
+}
+
+
+#request_others #i1 {
+position: absolute;
+left: 14.57%;
+right: 75.86%;
+top: 9.83%;
+bottom: 77.22%;
+width: 70px;
+height: 95px;
+
+}
+#request_others #i2 {
+position: absolute;
+left: 63.97%;
+right: 31.44%;
+top: 14.01%;
+bottom: 79.1%;
+width: 60px;
+height: 75px;
+
+}
+#request_others #i3 {
+position: absolute;
+left: 83.88%;
+right: 15.52%;
+top: 13.86%;
+bottom: 79.24%;
+width: 60px;
+height: 75px;
+}
+#request_others #i4 {
+position: absolute;
+left: 74.02%;
+right: 23.39%;
+top: 13.86%;
+bottom: 79.24%;
+width: 60px;
+height: 75px;
+}
+
+
+/* Our Heroes are here to help with Others Request.   */
+
+.Others_reqtext p{
+position: absolute;
+width: 511px;
+height: 34px;
+left: 131px;
+top: 186px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+}
+
+.request_form .form-label{
+	position: absolute;
+width: 332.22px;
+height: 14.52px;
+left: 131px;
+top: 224px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 174%;
+/* or 21px */
+
+color: #212121;
+}
+
+.request_form .form-control{
+position: absolute;
+width: 547px;
+height: 195.61px;
+left: 131px;
+top: 258.39px;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+border-radius: 10px;
+}
+
+.request_form .form-control ::ms-placeholder{
+position: absolute;
+width: 463.24px;
+height: 108.5px;
+left: 172.03px;
+top: 273.75px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 174%;
+/* or 24px */
+
+
+color: #212121;
+
+}
+.request_form .helper-btn{
+position: absolute;
+width: 354px;
+height: 60px;
+left: 210px;
+top: 481px;
+
+}
+/*  Delivery Request Time */
+
+#req_avail{
+position: relative;
+height: 641px;
+background: #FFF9F4;
+box-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+ 	  
+  }
+  
+ .profile-bg-availability h1{
+  position: absolute;
+left: 15.19%;
+right: 56.05%;
+top: 13.88%;
+bottom: 83.15%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+
+color: #212121;
+
+  }
+  
+  .All{
+    position: absolute;
+    width: 250px;
+    height: 53px;
+    left: 370px;
+    top: 80px;
+    border-radius: 5px;
+  }
+  
+  .menu-nav{
+    position: absolute;
+    width: 26px;
+    height: 20px;
+    left: 20px;
+    top: 30px;
+  }
+  
+ 
+  
+  .weekdays{
+    position: absolute;
+    width: 200px;
+    height: 53px;
+    left: 164px;
+    top: 174px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 0;
+  }
+  .avail_options{
+	  position: absolute;
+left: 20.05%;
+top: 22.87%;
+bottom: 71.76%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 174%;
+/* or 24px */
+
+text-align: center;
+
+color: #000000;
+  }
+  
+  
+  #id-days{
+   background-color: #ECECEC;
+  /* Button font - 16pt Semi Bold */
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.01em;
+  
+  color: #000000;
+  
+  }
+  
+  #days-selected{
+    background-color: #5FD680;
+  /* Button font - 16pt Semi Bold */
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.01em;
+  
+  color: #FFFFFF;
+  
+  }
+  
+  .weekends{
+    position: absolute;
+    width: 200px;
+    height: 53px;
+    left: 390px;
+    top: 174px;
+    border: 0;
+    border-radius: 5px;
+  }
+  
+  
+  #id-ends{
+    background:  #ECECEC;
+  /* Button font - 16pt Semi Bold */
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.01em;
+  
+  color:#000000;
+  
+  }
+  
+  #ends-selected{
+    background: #5FD680;
+  /* Button font - 16pt Semi Bold */
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.01em;
+  
+  color: #FFFFFF;
+  
+  }
+  
+  
+  .mon{
+    position: absolute;
+    width: 62.78px;
+    height: 39px;
+    left: 127.22px;
+    top: 241px;
+    border: 0;
+    
+    border-radius: 5px;
+  }
+  .tue{
+  position: absolute;
+  width: 62.78px;
+  height: 39px;
+  left: 200.22px;
+  top: 241px;
+  border: 0;
+  
+  border-radius: 5px;
+  }
+  .wed{
+  position: absolute;
+  width: 62.78px;
+  height: 39px;
+  left: 273.22px;
+  top: 241px;
+  border: 0;
+  
+  border-radius: 5px;
+  }
+  
+  
+  .thu{
+  position: absolute;
+  width: 62.78px;
+ height: 39px;
+ left: 345.22px;
+ top: 241px;
+ border: 0;
+ 
+ border-radius: 5px;
+ }
+ 
+ .fri{
+ position: absolute;
+ width: 62.78px;
+ height: 39px;
+ left: 417.22px;
+ top: 241px;
+ border:0;
+ 
+ border-radius: 5px;
+  }
+  .sat{
+  position: absolute;
+  width: 62.78px;
+ height: 39px;
+ left: 487.22px;
+ top: 241px;
+ border:0;
+ border-radius: 5px;
+ }
+ 
+ 
+ .sun{
+ position: absolute;
+ width: 62.78px;
+ height: 39px;
+ left: 557.22px; 
+ top: 241px;
+ border:0;
+  
+  border-radius: 5px;
+  }
+  
+  #daily{
+    background: #ECECEC;
+    font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 174%;
+  
+  /* or 24px */
+  text-align: center;
+  }
+  
+  
+  
+  
+  .all-day{
+  position: absolute;
+  width: 385px;
+  height: 53px;
+  left: 51px;
+  top: 315px;
+  border: 0;
+  background: #ECECEC;
+  border-radius: 5px;
+  }
+  
+  
+  
+   #all-day{
+   
+    /* Button font - 16pt Semi Bold */
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    background: #ECECEC;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 0.01em;
+    border: 0;
+    color: #000000;
+   }
+  
+   #all-day-selected{
+     /* Button font - 16pt Semi Bold */
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    background: #5FD680;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 0.01em;
+    border: 0;
+    color: #FFFFFF;
+   }
+  
+   .time_nine{ 
+    position: absolute;
+    width: 143.06px;
+    height: 51.01px;
+    left: 135.37px;
+    top: 297px;
+    border-radius: 5px;
+    border: 0;
+   
+   }
+  
+  #time{
+    background: #ECECEC;
+    
+  /* Button font - 16pt Semi Bold */
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.01em;
+  
+  color: #000000;
+  }
+  
+  #time-selected{
+    background: #5FD680;
+  
+  /* Button font - 16pt Semi Bold */
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  
+  /* identical to box height */
+  text-align: center;
+  letter-spacing: 0.01em;
+  
+  color: #FFFFFF;
+  }
+  
+  .time_ten{
+    position: absolute;
+    width: 143.06px;
+    height: 51.01px;
+    left: 301.94px;
+    top: 297px;
+    border: 0;
+    border-radius: 5px;
+  }
+  
+  
+  .time_eleven{
+    position: absolute;
+    width: 143.06px;
+    height: 51.01px;
+    left: 470.37px;
+    top: 297px;
+    border: 0;
+    border-radius: 5px;
+  }
+  
+  
+  
+  .time_twelve{
+    position: absolute;
+    width: 143.06px;
+    height: 51.01px;
+    left: 135.37px;
+    top: 359px;
+    border: 0;
+    border-radius: 5px;
+  }
+  
+  
+  .time_thirteen{
+    position: absolute;
+    width: 143.06px;
+    height: 51.01px;
+    left: 301.94px;
+    top: 359.16px;
+    border: 0;
+    border-radius: 5px;
+  }
+  
+  
+  
+  .time_fourteen{
+    position: absolute;
+    width: 143.06px;
+    height: 51.01px;
+    left: 470.37px;
+    top: 359px;
+    border: 0;
+    border-radius: 5px;
+  }
+  
+  
+  
+  .time_fifteen{
+    position: absolute;
+    width: 143.06px;
+    height: 51.01px;
+    left: 135.37px;
+    top: 420.53px;
+    border: 0;
+    border-radius: 5px;
+  }
+  
+  
+  .time_sixteen{
+    position: absolute;
+    width: 143.06px;
+    height: 51.01px;
+    left: 301.94px;
+    top: 420.53px;
+    border: 0;
+    border-radius: 5px;
+  }
+  
+  
+  
+  .time_seventeen{
+    position: absolute;
+    width: 143.06px;
+    height: 51.01px;
+    left: 470.37px;
+    top: 420.53px;
+    border: 0;
+    border-radius: 5px;
+  }
+  
+  .time_eighteen{
+    position: absolute;
+    width: 143.06px;
+    height: 51.01px;
+    left: 135.37px;
+    top: 482.84px;
+    border: 0;
+    border-radius: 5px;
+  }
+  
+  .time_nineteen
+  {
+    position: absolute;
+    width: 143.06px;
+    height: 51.01px;
+    left: 301.94px;
+    top: 482.84px;
+    border: 0;
+    border-radius: 5px;
+  }
+  
+  .time_twenty{
+    position: absolute;
+    width: 143.06px;
+    height: 51.01px;
+    left: 470.37px;
+    top: 482.84px;
+    border: 0;
+    border-radius: 5px;
+  }
+  
+  
+  .save-availability{
+    position: absolute;
+    width: 354px;
+    height: 60px;
+    left: 193px;
+    right: 27px;
+    top: 560px;
+    bottom: 35px;
+    background: #68ADEC;
+    border-radius: 10px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    border: 0;
+    /* identical to box height */
+    text-align: center;
+  
+    color: #FFFFFF;
+  }
+  
+  
+  /* Request Delivery payment */
+  
+  #Request_payment{
+	position: relative;
+    height: 641px;
+	background: #FFF9F4;
+	box-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+	border-radius: 15px;
+  }
+  
+  .pay-feature h5{
+	position: absolute;
+	height: 19px;
+	width: 248px;
+	left: 78px;
+	top: 128px;
+	border-radius: nullpx;
+	font-family: Poppins;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 27px;
+	letter-spacing: 0em;
+	text-align: left;
+
+  }
+  
+  .pay-feature h4{
+	 position: absolute; 
+	height: 28px;
+	width: 325px;
+	left: 78px;
+	top: 160px;
+	border-radius: nullpx;
+	font-family: Poppins;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0em;
+	text-align: left;
+  }
+  .pay-feature p{
+	  height: 23px;
+	width: 114px;
+	left: 408px;
+	top: 216px;
+	border-radius: nullpx;
+	font-family: Poppins;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0em;
+	text-align: center;
+	color: #000000;
+
+
+  }
+  
+  .pay_button Button{
+	height: 60px;
+	width: 354px;
+	border-radius: 10px;
+	position: absolute;
+	left: 200px;
+	right: 0%;
+	top: 450px;
+	bottom: 0%;
+
+	background: #68ADEC;
+	border-radius: 10px;
+
+	  
+  }
+  
+  .paymeth-feature h5{
+	 position: absolute; 
+	height: 19px;
+	width: 198px;
+	left: 78px;
+	top: 315px;
+	border-radius: nullpx;
+	font-family: Poppins;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 27px;
+	letter-spacing: 0em;
+	text-align: left;
+
+  }
+  
+  .paymeth-feature h4{
+	position: absolute;  
+	height: 28px;
+	width: 282px;
+	left: 78px;
+	top: 347px;
+	border-radius: nullpx;
+	font-family: Poppins;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 24px;
+	letter-spacing: 0em;
+	text-align: left;
+	  
+  }
+ 
+#img1{
+position: absolute;
+width: 111px;
+height: 111px;
+left: 341px;
+top: 102px;
+}
+
+#t1 {
+text-align: center;
+width: 120px;
+height: 70px;
+
+background: #ECECEC;
+ position: absolute;
+ left: 247px;
+}
+
+#t2 {
+text-align: center;
+width: 120px;
+height: 70px;
+
+background: #ECECEC;
+ position: absolute;
+    left: 427px;
+}
+#img2 {
+	position: absolute;
+left: 49.63%;
+right: 34.81%;
+top: 13.73%;
+bottom: 68.02%;
+}
+#img3{
+	position: absolute;
+left: 69.63%;
+right: 14.81%;
+top: 13.73%;
+bottom: 68.02%;
+}
+#t3 {
+position: absolute;
+left: 50.37%;
+right: 35.56%;
+top: 33.7%;
+bottom: 62.71%;
+color: #000000;
+}
+#t4 {
+position: absolute;
+left: 69.63%;
+right: 14.69%;
+top: 33.7%;
+bottom: 62.71%;
+color: #000000;
+}
+#img4
+{
+	position: absolute;
+left: 45.06%;
+right: 41.73%;
+top: 46.49%;
+bottom: 37.6%;
+}
+#img5{
+	position: absolute;
+left: 60.74%;
+right: 25.68%;
+top: 46.49%;
+bottom: 37.6%;
+}
+
+#img6 {
+	position: absolute;
+left: 77.04%;
+right: 9.38%;
+top: 46.49%;
+bottom: 37.6%;
+}
+h5{
+	font-weight: bold;
+}
+h {
+	font-weight: bold;
+}
+b {
+	position: center;
+width: 381px;
+height: 108px;
+left: 366px;
+top: 75px;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #68ADEC;
+}
+
+
+#pic {
+position: absolute;
+left: 115px;
+right: 9.38%;
+top: 213px;
+bottom: 37.6%;
+}
+#pic2 {
+	position: absolute;
+left: 420px;
+right: 9.38%;
+top: 213px;
+bottom: 37.6%;
+}
+#pic3 {
+	position: absolute;
+left: 680px;
+right: 9.38%;
+top: 213px;
+bottom: 37.6%;
+}
+#text1 {
+	position: absolute;
+width: 247px;
+height: 45px;
+left: 239px;
+top: 857px;
+}
+#pic4 {
+	position: absolute;
+width: 1065px;
+height: 290px;
+left: 0px;
+top: 734px;
+}
+#pic5 {
+	position: absolute;
+width: 375px;
+height: 905px;
+left: 1065px;
+top: 120px;
+}
+
+
+/* Request Driving Pickup time */
+  
+  #Request_pickup{
+	position: relative;
+    height: 641px;
+	background: #FFF9F4;
+	box-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+	border-radius: 15px;
+  }
+  
+  #Request_pickup .pickup img{
+	  position:absolute;
+	  left:300px;
+  }
+  #Request_pickup .pickup h1{
+	position:absolute;
+	height: 19px;
+	width: 339px;
+	left: 195px;
+	top: 114px;
+	border-radius: nullpx;
+	font-family: Poppins;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 27px;
+	letter-spacing: 0em;
+	text-align: center;
+
+  }
+  
+  .req-pickup Button{
+	
+    width: 354px;
+	background: #68ADEC;
+	border-radius: 10px;
+	position:absolute;
+	top:526px;
+	left:212px;
+
+  }
+  
+  
+  #communication .communication_info {
+    margin: 65px 0;
+}
+
+#communication .communication_info p {
+    text-align: center;
+    margin: 25px;
+}
+ #communication .communication_text {
+    margin: 65px 0;
+}
+ #communication .communication_text p {
+    text-align: center;
+    margin: 25px;
+}
+
+
+/* loopermyTasks */
+#header1 {
+	position: absolute;
+left: 15%;
+right: 0%;
+top: 5%;
+bottom: 80%;
+}
+#close1 {
+	position: absolute;
+left: 70.07%;
+right: 5.38%;
+top: 10.51%;
+bottom: 92.49%;
+}
+#top1 {
+	position: absolute;
+left: 28.78%;
+right: 18.33%;
+top: 24.83%;
+bottom: 42.9%;
+
+}
+#bottom1 {
+position: absolute;
+left: 28.78%;
+right: 18.11%;
+top: 58.03%;
+bottom: 9.78%;
+
+}
+
+  
+  
+  /* How do you like to help */
+  
+  .profile-bg-hero{
+    position: absolute;
+  width: 414px;
+  height: 219px;
+  left: 0px;
+  top: 0px;
+  
+  background: #68ADEC;
+  
+  
+     
+  }
+  
+  .h1-hero{
+    position: absolute;
+  width: 354px;
+  height: 72px;
+  left: 30px;
+  top: 92px;
+  
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+  letter-spacing: 0.01em;
+  
+  color: #FFFFFF;
+  }
+  
+  .car-hero{
+    position: absolute;
+  width: 247px;
+  height: 16px;
+  left: 59px;
+  top: 272px;
+  
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  
+  color: #212121;
+  
+  
+  }
+  
+  .car{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 351px;
+    top: 269px;
+    
+    background: #5FD680;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+  
+  
+  .deliver-hero{
+    position: absolute;
+  width: 263px;
+  height: 16px;
+  left: 59px;
+  top: 323px;
+  
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  
+  color: #212121;
+  }
+  
+  .deliver{
+    position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 351px;
+  top: 322px;
+  
+  
+  }
+  
+  .shopping-hero{
+    position: absolute;
+  width: 263px;
+  height: 16px;
+  left: 59px;
+  top: 374px;
+  
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  
+  color: #212121;
+  
+  
+  }
+  
+  
+  .shopping{
+    position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 351px;
+  top: 373px;
+  }
+  
+  .walk-hero{
+    position: absolute;
+  width: 247px;
+  height: 16px;
+  left: 59px;
+  top: 425px;
+  
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  
+  color: #212121;
+  
+  
+  }
+  
+  .walk{
+    position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 351px;
+  top: 424px;
+  }
+  
+  .furniture-hero{
+    position: absolute;
+    width: 292px;
+    height: 37px;
+    left: 59px;
+    top: 476px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    
+    color: #212121;
+    
+    
+  }
+  
+  .furniture{
+    position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 351px;
+  top: 485px;
+  }
+  
+  .covid{
+    position: absolute;
+  width: 247px;
+  height: 44px;
+  left: 59px;
+  top: 547px;
+  
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  
+  color: #212121;
+  
+  
+  }
+  
+  .test{
+    position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 351px;
+  top: 556px;
+  
+  
+  }
+  
+  .hero-btn{
+    position: absolute;
+  width: 354px;
+  height: 60px;
+  left: 30px;
+  top: 661px;
+  right: 30px;
+  bottom: 179px;
+  background: #68ADEC;
+  border-radius: 10px;
+  border: 0;
+  
+  }
+  
+  .food-hero_icon{
+    position: absolute;
+    top: 784px;
+    left: 63px;
+    right: 299.31px;
+    bottom: 56.97px;
+  }
+  
+  .driving-hero_icon{
+    position: absolute;
+    top: 784px;
+    left: 147px;
+    right: 217.15px;
+    bottom: 56.97px
+  }
+  
+  .med-hero_icon{
+    position: absolute;
+    top: 784px;
+    left: 227.33px;
+    right: 134.98px;
+    bottom: 56.97px
+  }
+  
+  .others-hero_icon{
+    position: absolute;
+    top: 784px;
+    left: 300.5px;
+    right: 52.82px;
+    bottom: 56.97px
+  }
+  
+  .vector-hero_icon{
+    position: absolute;
+    left: 32px;
+    top:  32px;
+    right: 371.83px;
+    bottom: 169px;
+    color: white;
+  }
+  
+
+/* Rectangle 21 */
+.foodbox form{
+position: absolute;
+width: 547px;
+height: 195.61px;
+left: 131px;
+top: 245.39px;
+
+background: #FFFFFF;
+border: 1px solid #C4C4C4;
+box-sizing: border-box;
+border-radius: 10px;
+}
+
+.foodicon img{
+
+position: absolute;
+left: 14.57%;
+right: 75.86%;
+top: 9.83%;
+bottom: 77.22%;
+}
+
+
+
+
+#Request_Type img{
+	align:center;
+	margin-left:200px;
+}
+
+/* deliver request */
+#head{
+	position: absolute;
+left: 15.19%;
+right: 56.05%;
+top: 13.88%;
+bottom: 83.15%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+
+color: #212121;
+}
+
+#any{
+	position: absolute;
+left: 50.49%;
+right: 17.9%;
+top: 13.88%;
+bottom: 77.85%;
+
+/* Button font - 16pt Semi Bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;;
+}
+#b{
+	position: absolute;
+left: 17.72%;
+right: 62.55%;
+top: 29.17%;
+bottom: 62.87%;
+
+/* Button font - 16pt Semi Bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+}
+#c{
+position: absolute;
+left: 40.14%;
+right: 40.14%;
+top: 29.17%;
+bottom: 62.87%;
+
+/* Button font - 16pt Semi Bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+}
+#d{
+	position: absolute;
+left: 62.59%;
+right: 17.68%;
+top: 29.17%;
+bottom: 62.87%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 174%;
+/* or 24px */
+
+text-align: center;
+
+color: #000000;
+
+	
+}
+#e{
+	position: absolute;
+left: 17.65%;
+right: 62.62%;
+top: 39.63%;
+bottom: 52.42%;
+
+/* Button font - 16pt Semi Bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+}
+#f{
+	position: absolute;
+left: 40%;
+right: 40.27%;
+top: 39.63%;
+bottom: 52.42%;
+
+
+/* Button font - 16pt Semi Bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #212121;
+
+}
+#g{
+	position: absolute;
+left: 62.38%;
+right: 17.89%;
+top: 39.63%;
+bottom: 52.42%;
+
+/* Button font - 16pt Semi Bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #212121;
+}
+#h{
+	position: absolute;
+left: 17.53%;
+right: 62.74%;
+top: 50.37%;
+bottom: 41.68%;
+
+/* Button font - 16pt Semi Bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+
+}
+#i{
+	position: absolute;
+left: 40.27%;
+right: 40%;
+top: 50.37%;
+bottom: 41.68%;
+
+/* Button font - 16pt Semi Bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+#j{
+	position: absolute;
+left: 62.35%;
+right: 17.93%;
+top: 49.45%;
+bottom: 42.59%;
+
+/* Button font - 16pt Semi Bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+#k{
+position: absolute;
+left: 40.25%;
+right: 40.03%;
+top: 61.15%;
+bottom: 30.89%;
+
+/* Button font - 16pt Semi Bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+#l{
+	position: absolute;
+left: 40%;
+right: 40%;
+top: 75%;
+bottom: 30%;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 0px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+#mkt{
+	position: absolute;
+width: 787px;
+height: 517px;
+left: 343.05px;
+top: 347px;
+}
+#war{
+	position: absolute;
+width: 250.07px;
+height: 69.65px;
+left: 374.16px;
+top: 828.93px;
+background: #F7AF69;
+border-radius: 10px;
+}
+#long{
+	position: absolute;
+width: 924.27px;
+height: 58.84px;
+left: 270.78px;
+top: 857.6px;
+
+background: #F7AF69;
+}
+#star1{
+	position: absolute;
+left: 50.82%;
+right: 46.65%;
+top: 92.71%;
+bottom: 4.2%;
+
+background: #FFEA7B;
+
+}
+#star2{
+	position: absolute;
+left: 53.81%;
+right: 43.66%;
+top: 92.71%;
+bottom: 4.2%;
+
+background: #FFEA7B;
+}
+#star3{
+	position: absolute;
+left: 56.8%;
+right: 40.66%;
+top: 92.71%;
+bottom: 4.2%;
+
+background: #FFEA7B;
+}
+#star4{
+	position: absolute;
+left: 59.83%;
+right: 37.63%;
+top: 92.71%;
+bottom: 4.2%;
+
+background: #FFEA7B;
+}
+
+/*sign up*/
+#fn   {
+	position: absolute;
+width: 315px;
+height: 79px;
+left: 223px;
+top: 317px;
+}
+#phone{
+	position: absolute;
+width: 315px;
+height: 81px;
+left: 633px;
+top: 318px;
+}
+#lastname{
+	position: absolute;
+width: 315px;
+height: 78px;
+left: 221px;
+top: 418px;
+}
+#email{
+	position: absolute;
+width: 315px;
+height: 77px;
+left: 633px;
+top: 419px;
+
+}
+#but{
+	position: absolute;
+width: 354px;
+height: 60px;
+left: 386px;
+top: 622px;
+}
+
+#nice{
+	position: absolute;
+width: 414px;
+height: 54px;
+left: 378px;
+top: 174px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #68ADEC;
+}
+
+
+  
+  /* BG */
+#hero_board{
+position: absolute;
+width: 810px;
+height: 641px;
+}
+

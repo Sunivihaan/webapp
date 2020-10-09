@@ -1,0 +1,63 @@
+{
+  "name": "web-react",
+  "homepage": "/",
+  "version": "0.1.0",
+  "private": true,
+  "license": "GPL-3.0",
+  "contributors": [
+    "David Maillo",
+    "Santiago Arriaga <santiago.arriaga9@gmail.com>",
+    "Tom Bjarne Seidel <tom@fjellsson.com>"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "run-integration-tests": "cypress run",
+    "test": "npm run test-unit-no-watch && start-server-and-test start http://localhost:8080 run-integration-tests",
+    "test-unit": "react-scripts test",
+    "test-unit-no-watch": "react-scripts test --watchAll=false",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@blockstack/connect": "^2.8.3",
+    "@react-google-maps/api": "^1.9.8",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "blockstack": "^21.1.0",
+    "bootstrap": "^4.4.1",
+    "google-maps-react": "^2.0.6",
+    "mobx": "^5.15.4",
+    "mobx-persist": "^0.4.1",
+    "mobx-react": "^6.2.2",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-bootstrap-icons": "^1.0.1-alpha3",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "react-player": "^2.2.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "weather-icons": "^1.3.2"
+  },
+  "devDependencies": {
+    "cypress": "^4.5.0",
+    "start-server-and-test": "^1.11.0"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

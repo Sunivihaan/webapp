@@ -1,0 +1,76 @@
+.rating {
+  font-size: 64px;
+}
+
+.rating > span:before {
+  content: '☆';
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+.rating > span.rating_selected:before {
+  content: '★' !important;
+}
+
+.rating > span:hover:before,
+.rating span:hover ~ span:before {
+  background-color: var(--hover-rating-color);
+}
+
+/* Hero Rating */
+#rating_hero{
+
+height: 641px;
+left: 302px;
+top: 224px;
+
+background: #FFF9F4;
+box-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+}
+.rating_text h3{
+	 width: 60%;
+    margin: 0 auto;
+    align: center;
+
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #212121;
+
+}
+.rating_button .helper-btn{
+	position:absolute;
+	left:321px;
+	 top: 528px;
+    width: 345px;
+    margin: 0 auto;
+    align: center;
+
+}
+.rating_button .receiver-btn{
+position:absolute;
+	left:321px;
+	 top: 617px;
+    width: 345px;
+    margin: 0 auto;
+    align: center;
+
+}
+
+/* Hero Rating */
+#rating_looper{
+
+height: 641px;
+left: 302px;
+top: 224px;
+
+background: #FFF9F4;
+box-shadow: 4px 10px 10px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+}

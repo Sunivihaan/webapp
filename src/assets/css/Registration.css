@@ -1,0 +1,46 @@
+.checkbox-wrapper {
+  border-top:1px solid #D3D3D3;
+  display:flex;
+  justify-content:space-between;
+  padding:15px 0;
+}
+
+.checkbox-wrapper input {
+  position:relative;
+  right:0;
+}
+
+#registration-finish {
+  align-items:center;
+  display:flex;
+  flex-direction:column;
+}
+
+#registration-finish img {
+  margin-bottom:25px;
+}
+
+.page-link {
+  background-color:transparent!important;
+  border:none!important;
+  color:var(--helper-color)!important;
+  cursor:default;
+  font-size:35px!important;
+  padding:5px;
+}
+
+#page-wrapper {
+  align-items:center;
+  display:flex;
+  justify-content:center;
+}
+
+#page-wrapper p {
+  margin-right:10px;
+}
+
+#hero_board {
+  height:641px;
+  position:absolute;
+  width:810px;
+}

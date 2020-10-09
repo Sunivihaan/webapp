@@ -1,0 +1,6 @@
+build/
+cypress/screenshots/
+cypress/videos/
+node_modules/
+.env
+yarn-error.log

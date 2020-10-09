@@ -1,0 +1,280 @@
+#logo {
+    width:140px;
+}
+
+#nav {
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+}
+
+.nav-elem:hover {
+    color:var(--receiver-color);
+    font-weight:700;
+}
+
+.spacing-text {
+    line-height:30px;
+}
+
+#nav-wrapper,#logo {
+    padding:0;
+    z-index:10;
+}
+
+.nav-link {
+    cursor:pointer;
+    margin-right:5px;
+}
+
+.btn-wrapper {
+    width:min-content;
+}
+
+.btn-wrapper button {
+    width:20vw;
+}
+
+#responsive-navbar-nav {
+    flex-direction:row-reverse;
+}
+
+#responsive-navbar-nav div {
+    display:flex;
+    margin-right:0!important;
+}
+
+h2 {
+    font-size:24px;
+    margin-bottom:15px;
+}
+
+h4 {
+    font-size:18px;
+}
+
+#home #claim {
+    background-color:#FBFCFF;
+    position:relative;
+}
+
+#home #claim .btn {
+    display:block;
+    width:100%;
+}
+
+#video-player {
+    border:none;
+    height:calc(35vw/1.87);
+    margin-right:45px;
+    width:35vw;
+}
+
+#video-section {
+    height:40vh;
+}
+
+#cta-section {
+    align-items:center;
+    height:30vh;
+}
+
+#home-info img {
+    margin:30px 0;
+}
+
+#contact,#home-info {
+    background-color:var(--section-color);
+}
+
+#hero {
+    align-items:center;
+    background-image:url(../img/doodle.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    display:flex;
+    height:75vh;
+    justify-content:center;
+}
+
+#hero-cta {
+    align-items:center;
+    background:rgba(241,246,250,0.88);
+    border-radius:10px;
+    display:flex;
+    flex-direction:column;
+    padding:25px;
+    width:65vw;
+}
+
+#hero-cta h1 {
+    color:#06375B;
+    font-size:45px;
+    font-weight:700;
+    line-height:67px;
+}
+
+#hero-cta p {
+    color:#000;
+    font-size:16px;
+    line-height:24px;
+    text-align:justify;
+}
+
+#hero-cta .helper-btn {
+    background:var(--receiver-color);
+}
+
+#home-text {
+    align-items:center;
+    display:flex;
+    justify-content:center;
+    margin:30px auto;
+    max-width:778px;
+    min-height:220px;
+    width:100%;
+}
+
+.home-text-info h1 {
+    color:#01314F;
+    font-weight:600;
+    line-height:45px;
+    text-align:center;
+}
+
+.home-text-info p {
+    color:#000;
+    font-size:16px;
+    text-align:justify;
+}
+
+#home-text .helper-btn {
+    background:#68ADEC;
+    border-radius:10px;
+    height:60px;
+    width:284px;
+}
+
+#home-text .receiver-btn {
+    background:#FFB067;
+    border-radius:10px;
+    height:60px;
+    width:284px;
+}
+
+#vertical-separator {
+    width:50vw;
+}
+
+.roadmap-feature-list p {
+    color:#000;
+    font-family:Poppins;
+    font-style:normal;
+    font-weight:400;
+    height:76px;
+    line-height:32px;
+    text-align:center;
+}
+
+.road {
+    background:#01314F;
+    border-radius:5px;
+}
+
+.roadmap-feature {
+    align-items:center;
+    display:flex;
+    flex-direction:column;
+    padding:0 35px;
+}
+
+.roadmap-icon {
+    margin-bottom:20px;
+}
+
+#footer {
+    align-items:center;
+    background:#FBFCFF;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    padding:25px 0;
+}
+
+.footer-list {
+    margin:0;
+    padding:0;
+}
+
+.social-media-logo {
+    width:30px;
+}
+
+#media {
+    margin-bottom:25px;
+}
+
+#home-info .super-slim p,.wrapper h2 {
+    text-align:center;
+}
+
+@media screen and (max-width: 900px) {
+
+    #hero {
+        height:50vh;
+    }
+
+    #hero-cta p {
+        font-size:14px!important;
+        text-align:inherit;
+    }
+
+    #video-section {
+        flex-direction:column-reverse;
+        height:auto;
+    }
+
+    #video-player {
+        height:calc(100vw/1.87);
+        margin:0!important;
+        width:100vw!important;
+    }
+
+    #video-section .slim-section {
+        margin:25px;
+        width:80vw;
+    }
+
+    #home-info .flex-section,#cta-section {
+        align-items:center;
+        flex-direction:column;
+    }
+
+    .btn-wrapper {
+        display:flex;
+        justify-content:space-around;
+    }
+
+    .btn-wrapper button {
+        height:80px;
+        font-size: 14px;
+    }
+
+    #home-info .flex-section sp-btw .super-slim {
+        width:100vw;
+    }
+
+    #home-info .flex-section .flex-section,#cta-section .slim-section,#cta-section .btn-wrapper {
+        width:90vw;
+    }
+
+    #cta-section {
+        height:60vh;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    #hero {
+        height:100vh;
+    }
+}
