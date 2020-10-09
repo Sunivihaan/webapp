@@ -48,7 +48,7 @@ import HeroSkills from './components/pages/registration/heroSkills'
 import AccountType from './components/pages/registration/accountType'
 import RegistrationFinishHero from "./components/pages/registration/finishRegistrationHero"
 //eslint-disable-next-line
-import Watson from "./components/pages/Watson"
+
 
 /* Design Files */
 
